@@ -1,11 +1,11 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F335447872223319878%2F&psig=AOvVaw18Few59f_fZYOm8Oj1TaLZ&ust=1699227446935000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCX4tTBq4IDFQAAAAAdAAAAABAW)]
-<h1 align="center">Hi 👋, I'm Prince Uchendu(TopBoyDrako)</h1>
+<div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU" alt="Banner Image" width="90%">
+</div>
+  <h1 align="center">Hi 👋, I'm Prince Uchendu(TopBoyDrako)</h1>
 <h3 align="center">Building My World, One Step At A Time. I Love Coding</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
+<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topboydrako&label=Profile%20views&color=0e75b6&style=flat" alt="topboydrako" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topboydrako" alt="topboydrako" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/topboydrako" target="blank"><img src="https://img.shields.io/twitter/follow/topboydrako?logo=twitter&style=for-the-badge" alt="topboydrako" /></a> </p>
 
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topboydrako&show_icons=true&locale=en" alt="topboydrako" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topboydrako&" alt="topboydrako" /></p>
-
