@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Princethedev.jpg" alt="Banner Image" width="100%", height="200px">
+  <img src="./Princethedev.jpg" alt="Banner Image" width="100%", height="250px">
 </div>
 
 # 👋 Hi, I'm PrinceTheDev
@@ -81,7 +81,7 @@ I’m constantly learning and exploring new technologies. I believe that there�
 
 ### **⭐️ GitHub Highlights**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrinceTh    eDev&show_icons=true&theme=radical)
+- **Top Stats:** ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrinceTheDev&show_icons=true&theme=radical)
 ---
 - **Top Languages:** ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceTheDev&layout=compact&theme=radical)
 ---
