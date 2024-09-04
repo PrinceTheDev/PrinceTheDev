@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Princethedev.jpg" alt="Banner Image" width="100%", height="35%">
+  <img src="./Princethedev.jpg" alt="Banner Image" width="100%", height="40px">
 </div>
 
 # 👋 Hi, I'm PrinceTheDev
@@ -94,10 +94,10 @@ When I’m not coding, you’ll find me reading books, working out, or finding n
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/topboydrako" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topboydrako" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrinceTheDev" height="30" width="40" />
   </a>
   <a href="https://instagram.com/topboydrako" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="topboydrako" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PrinceTheDev" height="30" width="40" />
   </a>
   <a href="https://www.behance.net/princeuchendu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prince uchendu" height="30" width="40" />
@@ -142,13 +142,13 @@ When I’m not coding, you’ll find me reading books, working out, or finding n
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topboydrako&show_icons=true&locale=en&layout=compact" alt="topboydrako" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrinceTheDev&show_icons=true&locale=en&layout=compact" alt="PrinceTheDev" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topboydrako&show_icons=true&locale=en" alt="topboydrako" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrinceTheDev&show_icons=true&locale=en" alt="PrinceTheDev" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topboydrako&" alt="topboydrako" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceTheDev&" alt="PrinceTheDev" />
 </p>
