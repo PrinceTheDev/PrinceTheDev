@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/root/Princethedev.jpg" alt="Banner Image" width="90%">
+  <img src="./Princethedev.jpg" alt="Banner Image" width="90%">
 </div>
 
 # 👋 Hi, I'm PrinceTheDev
