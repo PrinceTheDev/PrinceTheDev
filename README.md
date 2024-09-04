@@ -81,7 +81,8 @@ I’m constantly learning and exploring new technologies. I believe that there�
 
 ### **⭐️ GitHub Highlights**
 
-- **Top Languages:** [Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceTheDev&layout=compact&theme=radical)
+- **Top Languages:** ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceTheDev&layout=compact&theme=radical)
+---
 - **Contributions:** ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=PrinceTheDev&theme=radical)
 
 ---
